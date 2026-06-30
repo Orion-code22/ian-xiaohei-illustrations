@@ -1,0 +1,6 @@
+interface:
+  display_name: "Codex 图标配图"
+  short_description: "为中文文章生成 Codex App 图标角色风格的正文配图资产"
+  default_prompt: "Use $codex-app-icon-illustrations to 为这篇中文文章设计并生成几张 Codex App 图标角色正文配图。"
+policy:
+  allow_implicit_invocation: true
